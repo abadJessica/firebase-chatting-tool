@@ -18,5 +18,3 @@ This activity demonstrates a simple **live chat application** using **Firebase R
 2. When the **Add Message** button is clicked, the message is pushed to Firebase.
 3. Firebase updates the database.
 4. The page listens for database changes and automatically displays new messages.
-
-## Project Structure
